@@ -23,21 +23,21 @@ const HELP_MENU_TIMEOUT_MS = 5 * 60 * 1000;
 
 const CATEGORY_ICONS = {
     Core: "ℹ️",
-    Moderation: "🛡️",
+    Moderation: "🛡️", admin
     Economy: "💰",
-    Music: "🎵",
-    Fun: "🎮",
-    Leveling: "📊",
+    Music: "🎵", goranie 
+    Fun: "🎮", hazali 
+    Leveling: "📊", nerakar
     Utility: "🔧",
-    Ticket: "🎫",
-    Welcome: "👋",
+    Ticket: "🎫", hawkarre
+    Welcome: "👋", baxer ben 
     Giveaway: "🎉",
     Counter: "🔢",
     Tools: "🛠️",
     Search: "🔍",
     "Reaction Roles": "🎭",
     Community: "👥",
-    Birthday: "🎂",
+    Birthday: "🎂", Taman 
     "Join To Create": "🔌",
     Verification: "✅",
 };
