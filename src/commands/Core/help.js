@@ -30,7 +30,7 @@ const CATEGORY_ICONS = {
     Leveling: "📊",
     Utility: "🔧",
     Ticket: "🎫",
-    "Baxer ben": "👋",
+    "Baxerben: "👋",
     Giveaway: "🎉",
     Counter: "🔢",
     Tools: "🛠️",
