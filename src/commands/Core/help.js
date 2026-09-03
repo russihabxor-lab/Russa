@@ -25,7 +25,8 @@ const CATEGORY_ICONS = {
     Core: "ℹ️",
     Moderation: "🛡️",
     Economy: "💰",
-    Music: "🎵",
+    Music: "🎵", gaorine
+        
     Fun: "🎮",
     Leveling: "📊",
     Utility: "🔧",
