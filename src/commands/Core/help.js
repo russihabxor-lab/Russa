@@ -178,4 +178,4 @@ export default {
             }
         }, HELP_MENU_TIMEOUT_MS);
     },
-}; 1
+}; 
